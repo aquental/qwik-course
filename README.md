@@ -8,3 +8,4 @@ Now I am a Qwikifier 🚀
 nvm use v21.6.1
 npm create qwik@latest
 ```
+🏁
